@@ -1,7 +1,7 @@
 # stat5102project
-Dataset : \n
-https://www.kaggle.com/sherinclaudia/movielens \n
-https://www.kaggle.com/rounakbanik/the-movies-dataset \n
-Reference : \n
-https://github.com/josephpcowell/cowell_proj_2/blob/master/imdb_rating_proj.ipynb \n
-https://www.kaggle.com/rounakbanik/the-story-of-film \n
+Dataset : <br/>
+https://www.kaggle.com/sherinclaudia/movielens <br/>
+https://www.kaggle.com/rounakbanik/the-movies-dataset <br/>
+Reference : <br/>
+https://github.com/josephpcowell/cowell_proj_2/blob/master/imdb_rating_proj.ipynb <br/>
+https://www.kaggle.com/rounakbanik/the-story-of-film <br/>
